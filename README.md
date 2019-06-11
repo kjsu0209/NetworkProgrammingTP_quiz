@@ -1,4 +1,5 @@
 # NetworkProgrammingTP_quiz
+ 이번 프로젝트에서는 서바이벌 퀴즈 게임을 TCP 서버/클라이언트 소켓 프로그램으로 구현하였습니다. 멀티 클라이언트 서버를 구현하기 위해 멀티쓰레드 방식을 사용했습니다
 ## Server
 1. ClientThread : client에게서 답 받고 채점 결과를 전송하는 쓰레드
 2. Problem : 질문, 답, 선택지가 저장되는 문제 객체
